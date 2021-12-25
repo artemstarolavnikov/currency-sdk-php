@@ -1,0 +1,5 @@
+{
+  "public" : "https://marketcap.backend.currency.com/api/v1/token_crypto",
+  "base" : "https://api-adapter.backend.currency.com",
+  "baseDemo" : "https://demo-api-adapter.backend.currency.com"
+}
